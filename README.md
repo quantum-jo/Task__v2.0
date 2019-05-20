@@ -1,6 +1,5 @@
 # Task__v2.0
 Contains files with sorting algorithm
-hytyr
 /*bubble sorting*/
 #include <stdio.h>
  
