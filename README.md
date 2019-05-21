@@ -8,6 +8,8 @@ Shohan - Selection Sort
 
 Abhinarayani - Bubble Sort 
 
+Sudarshan - Bubble Sort 
+
 # Languages 
-<b> Python </b>
+<b> Python </b> </br>
 <b> C++ </b>
